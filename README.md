@@ -1,14 +1,14 @@
 # Hi there! I'm Antonio 👋
 
-I am a Multiplatform Developer and System Administrator student here in Spain
-I also have some knowledge in Cybersecurity 
-I'm passionate about technology and currently building my foundation in all these Computer Science world
+I am a **Multiplatform Application Development** and **System Administration** student based in Spain.
+I also have knowledge in **Cybersecurity**.
+I'm passionate about technology and currently building my foundation in the world of Computer Science. 🚀
 
 ---
 
-### About me
-* 🎓 I'm currently studying Cross-Platform Application Development at IT Poniente
-* 🌱 I'm currently learning Java & Kotlin
+### 🧐 About me
+* 🎓 I'm currently studying **Cross-Platform Application Development** at IT Poniente.
+* 🌱 I'm currently focusing on learning **Java & Kotlin**.
 
 ---
 
@@ -20,22 +20,23 @@ I'm passionate about technology and currently building my foundation in all thes
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  </p>
+</p>
 
 ---
 
 ### 🧪 My Learning Playground (Work in Progress!)
 *Here are some of the experimental projects I've been working on to practice my skills:*
 
-**1. [VirtualAdmin]** 🚧 *(Finished but still improvable)*
-> A simple software to centralize all virtualmin in a simple dashboard. This was developed during my student practices a few years ago 
-> * *Stack:* LARAVEL, PHP, HTML, CSS
-**2. [SpaceInvaders]**
-> My first attempt at building a videogame. Still under development
+**1. [VirtualAdmin]** 🚧 *(Finished but improving)*
+> A tool to centralize all Virtualmin instances in a simple dashboard. This was developed during my internship a few years ago.
+> * *Stack:* Laravel, PHP, HTML, CSS.
+
+**2. [SpaceInvaders]** 👾
+> My first attempt at building a video game. Currently under development.
 
 ---
 
 ### 📫 Let's Connect
 I'm always open to feedback and connecting with other learners!
-* [LinkedIn](www.linkedin.com/in/antonio-luque-quintana-76756a220)
+* [LinkedIn](https://www.linkedin.com/in/antonio-luque-quintana-76756a220)
 * [Email](mailto:antonioluque9@gmail.com)
