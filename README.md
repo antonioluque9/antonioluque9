@@ -1,14 +1,13 @@
-# Hi there! I'm Antonio 👋
-
 <a href="https://antonio-luque.com">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20Me-blue?style=for-the-badge&logo=firefox" alt="Portfolio" />
 </a>
+# Hi there! I'm Antonio 👋
+
+
 
 I am a **Multiplatform Application Development** and **System Administration** student based in Spain.
 I also have knowledge in **Cybersecurity**.
 I'm passionate about technology and currently building my foundation in the world of Computer Science. 🚀
-
-👉 **[Check out my Portfolio](https://antonio-luque.com)** 👈
 ---
 
 ### 🧐 About me
